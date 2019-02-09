@@ -6,6 +6,7 @@ en:
     edit: Edit
     follow: Follow
     unfollow: Unfollow
+    view: Open
     fields:
       header: Header
       body: Body
